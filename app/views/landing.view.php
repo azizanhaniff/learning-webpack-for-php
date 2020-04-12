@@ -17,8 +17,18 @@
     <body>
         <div class="pt-vh">
             <div class="container text-center text-white mt-3 py-5">
-                <h1>Learning Webpack</h1>
-                <h2>PHP</h2>
+                <h2>Learning Webpack for PHP</h2>
+
+                <img class="img-thumbnail img-fluid my-3" src="img/Erina.png" style="height: 256px;" alt="Erina">
+
+                <div class="d-flex justify-content-center">
+                    <ul class="list-group list-group-horizontal text-center">
+                        <li class="list-group-item"><a href="/">Landing Page</a></li>
+                        <li class="list-group-item"><a href="users">Users</a></li>
+                        <li class="list-group-item"><a href="design">AdminLTE</a></li>
+                        <li class="list-group-item"><a href="about">About</a></li>
+                    </ul>
+                </div>
             </div>
         </div>
 
