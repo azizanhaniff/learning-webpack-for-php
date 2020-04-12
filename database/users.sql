@@ -41,7 +41,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `full_name`, `display_name`, `created_on`, `updated_on`) VALUES
 (1, 'Azizan Haniff', 'Azizan Haniff', '2020-04-11 15:37:05', NULL),
-(2, 'Rename Remane', 'Rename Remane', '2020-04-11 15:37:05', NULL),
+(2, 'Rename Remane', 'Rename Remane', '2020-04-11 15:37:05', NULL);
 
 --
 -- Indexes for dumped tables
