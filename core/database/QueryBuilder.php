@@ -28,7 +28,7 @@ class QueryBuilder {
             'INSERT INTO %s (%s) VALUES (%s)',
             $table,
             implode(', ', array_keys($parameters)),
-            ':' . implode(', :', array_keys($parameters)),
+            ':' . implode(', :', array_keys($parameters))
         );
 
         try {
