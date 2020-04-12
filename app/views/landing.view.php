@@ -19,7 +19,7 @@
             <div class="container text-center text-white mt-3 py-5">
                 <h2>Learning Webpack for PHP</h2>
 
-                <img class="img-thumbnail img-fluid my-3" src="img/Erina.png" style="height: 256px;" alt="Erina">
+                <img class="img-thumbnail img-fluid my-3" alt="Erina" style="height: 256px;">
 
                 <div class="d-flex justify-content-center">
                     <ul class="list-group list-group-horizontal text-center">

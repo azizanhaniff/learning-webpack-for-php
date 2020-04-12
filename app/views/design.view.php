@@ -732,7 +732,7 @@
                   </div>
                 </div>
                 <div class="card-body">
-                  <img id="Erina" class="img img-fluid">
+                  <img class="img-fluid" alt="Erina">
                 </div>
                 <!-- /.card-body -->
                 <div class="card-footer">

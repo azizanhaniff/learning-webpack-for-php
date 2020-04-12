@@ -14,10 +14,11 @@
     <body>
         <div class="pt-vh">
             <div class="container text-center mt-3 py-5">
-                <form method="post" action="/users">
-                    Full Name: <input type="text" name="full_name">
+                <form class="form-inline" method="post" action="/users">
+                    <label class="sr-only" for="full_name">Full Name</label>
+                    <input type="text" class="form-control mb-2 mr-sm-2" id="full_name" name="full_name" placeholder="Enter name here..." autofocus>
 
-                    <button type="submit">Submit</button>
+                    <button type="submit" class="btn btn-primary mb-2">Submit</button>
                 </form>
 
                 <table class="table table-bordered table-hover table-striped">

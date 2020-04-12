@@ -13,4 +13,4 @@ $("[alt='Brad Diesel']").attr("src", user1);
 $("[alt='Alexander Pierce']").attr("src", user2);
 $("[alt='Nora Silvester']").attr("src", user3);
 $("[alt='John Pierce']").attr("src", user8);
-$("#Erina").attr("src", Erina);
+$("[alt='Erina']").attr("src", Erina);
